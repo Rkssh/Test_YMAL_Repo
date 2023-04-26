@@ -1,0 +1,7 @@
+list_of_server : 
+  - server_1 :
+    name : "linux"
+    volume : "50GB"
+  - server_2 : 
+    name : "windows"
+    volume : "50GB"

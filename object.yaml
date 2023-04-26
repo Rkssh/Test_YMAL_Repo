@@ -1,0 +1,4 @@
+server :
+  name : "linux"
+  capacity : "50GB"
+  tag : "linux_vm"
